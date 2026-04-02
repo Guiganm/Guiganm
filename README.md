@@ -1,30 +1,46 @@
-## 👋 Olá, eu sou o Guilherme
+# Olá, eu sou Guilherme 👋
 
-💻 Cybersecurity | DevSecOps | Pentest  
-🔍 Foco em Auditoria de Segurança e Vulnerabilidades  
+**Cybersecurity | DevSecOps | Auditoria de Segurança | Pentest Labs**
+
+Foco em segurança de aplicações, análise de vulnerabilidades, laboratórios práticos e documentação técnica para portfólio profissional.
 
 ---
 
-## 🚀 O que estou fazendo agora
+## O que estou fazendo agora
+
 - Estudando OWASP Top 10 na prática
-- Criando laboratórios de pentest
-- Desenvolvendo scripts de segurança
+- Criando laboratórios de pentest em ambiente controlado
+- Documentando vulnerabilidades com evidências técnicas
+- Desenvolvendo meu portfólio em Cybersecurity
 
 ---
 
-## 🛠️ Ferramentas que uso
+## Ferramentas e Tecnologias
+
 - Kali Linux
+- Burp Suite
 - Nmap
 - Metasploit
-- Burp Suite
+- Docker
+- OWASP Juice Shop
+- Git / GitHub
 
 ---
 
-## 📂 Meus projetos
-🔐 Em breve: laboratório OWASP Top 10  
-🛡️ Em breve: playbook de pentest  
+## Projetos em destaque
+
+- [OWASP Top 10 Lab](https://github.com/Guiganm/owasp-top10-lab)
+- Em construção: Playbook de Pentest
+- Em construção: Scripts de apoio para segurança
 
 ---
 
-## 📫 Contato
+## Objetivo
+
+Construir um portfólio técnico sólido em segurança ofensiva e defensiva, com foco em testes práticos, documentação profissional e evolução contínua.
+
+---
+
+## Contato
+
 - LinkedIn: https://www.linkedin.com/in/guilherme-moutinho/
